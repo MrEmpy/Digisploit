@@ -6,13 +6,13 @@
 ![](assets/2.png)
 
 # Tested operating systems
-[+] Windows
+[✔️] Windows
 
-[+] Ubuntu
+[✔️] Ubuntu
 
-[+] Kali linux
+[✔️] Kali linux
 
-[+] Parrot Security
+[✔️] Parrot Security
 
 # How to install
 ```
