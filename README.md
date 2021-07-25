@@ -20,3 +20,7 @@ pip install -r requirements.txt
 chmod +x digisploit.py
 ./digisploit.py
 ```
+
+ # Video tutorial
+ 
+[![Tutorial](https://github.com/MrEmpy/Digisploit/blob/main/assets/1.png?raw=true)](https://youtu.be/xtljdARnYFY "Tutorial")
